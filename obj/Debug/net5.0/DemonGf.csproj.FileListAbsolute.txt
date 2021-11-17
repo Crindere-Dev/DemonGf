@@ -1,0 +1,16 @@
+D:\UMMM\DemonGf\bin\Debug\net5.0\DemonGf.exe
+D:\UMMM\DemonGf\bin\Debug\net5.0\DemonGf.deps.json
+D:\UMMM\DemonGf\bin\Debug\net5.0\DemonGf.runtimeconfig.json
+D:\UMMM\DemonGf\bin\Debug\net5.0\DemonGf.runtimeconfig.dev.json
+D:\UMMM\DemonGf\bin\Debug\net5.0\DemonGf.dll
+D:\UMMM\DemonGf\bin\Debug\net5.0\ref\DemonGf.dll
+D:\UMMM\DemonGf\bin\Debug\net5.0\DemonGf.pdb
+D:\UMMM\DemonGf\obj\Debug\net5.0\DemonGf.csproj.AssemblyReference.cache
+D:\UMMM\DemonGf\obj\Debug\net5.0\DemonGf.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMMM\DemonGf\obj\Debug\net5.0\DemonGf.AssemblyInfoInputs.cache
+D:\UMMM\DemonGf\obj\Debug\net5.0\DemonGf.AssemblyInfo.cs
+D:\UMMM\DemonGf\obj\Debug\net5.0\DemonGf.csproj.CoreCompileInputs.cache
+D:\UMMM\DemonGf\obj\Debug\net5.0\DemonGf.dll
+D:\UMMM\DemonGf\obj\Debug\net5.0\ref\DemonGf.dll
+D:\UMMM\DemonGf\obj\Debug\net5.0\DemonGf.pdb
+D:\UMMM\DemonGf\obj\Debug\net5.0\DemonGf.genruntimeconfig.cache
