@@ -1,12 +1,18 @@
 ﻿using System;
+using System.Collections.Generic;
+
 
 namespace DemonGf
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Random rnd = new Random();
+        public static void Main()
+    {
+        MeetDemon();
+        
+    }
+   public static void MeetDemon(){
+           Random rnd = new Random();
 
         string[] first = new string[]{ "Lum", "Lex", "Lil","Za","Da", "Si","Lo", "Fa"};
         string[] sec = new string[]{ "trix", "lix", "bex", "lysth", "osyth", "lith"};
@@ -20,14 +26,25 @@ namespace DemonGf
         System.Console.WriteLine("Age:" + age);
         Console.ReadLine();
         Console.WriteLine("Gender:"+ (gender[rnd.Next(0, gender.Length)]));
-        Console.ReadLine();
- 
-        }
-    
 
-   private static void Love(string[] args)
-    {
-         
-      
+        System.Console.WriteLine("Do you want to restart?");
+
+        string sen = (Console.ReadLine());
+
+        if (sen=="yes" && sen=="Yes"){
+            
+
+             MeetDemon();
+
+        }  else{
+            System.Console.WriteLine("Alright goodbye :D");
+            Environment.Exit(0);
+        }
+ 
 }
-    }}
+   
+
+
+   
+    }
+}
